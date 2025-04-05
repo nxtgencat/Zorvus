@@ -26,7 +26,7 @@
 
 Visit [Visica](https://visica.vercel.app) to create an account and configure your API keys.
 
-If you want to test the app and explore its features without setup, try the demo at [visicatest.vercel.app](https://visicatest.vercel.app).
+If you want to test the app and explore its features without setup, try the demo at [Test Visica](https://visicatest.vercel.app).
 
 ## Logging & Screenshots
 
