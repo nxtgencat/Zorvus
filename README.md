@@ -1,38 +1,71 @@
-# Visica
-
-**Visica** is an intelligent screenshot analysis tool powered by advanced AI models like **Gemini** and **GPT-4o**. Designed to be lightweight and seamless, Visica runs quietly in the background and offers quick access through customizable hotkeys.
-
-## Features
-
-- Capture and analyze screenshots using **Gemini**, **GPT-4o**, and **GPT-4o Mini**
-- Long screenshot capture mode (Beta)
-- Lightweight, runs silently in the background
-- System tray icon for quick access and exit
-- Passphrase-based sign in/out
-- Customizable keyboard shortcuts
-- Automatically logs and saves screenshots for reference
-
-## Hotkeys
-
-- `Z + A` → Analyze with **Gemini** *(requires authentication)*
-- `Z + S` → Analyze with **GPT-4o Mini** *(requires authentication)*
-- `Z + D` → Analyze with **GPT-4o** *(requires authentication)*
-- `Z + Q` → Sign in/out using passphrase
-- `Z + X` → Toggle UI visibility
-- `Z + C` → Toggle long screenshot capture mode
-- `Z + SPACE` → Capture screenshot (works in capture mode)
-
-## Setup
-
-Visit [Visica](https://visica.vercel.app) to create an account and configure your API keys.
-
-If you want to test the app and explore its features without setup, try the demo at [Test Visica](https://visicatest.vercel.app).
-
-## Logging & Screenshots
-
-- Logs are stored in the `logs/` directory.
-- Screenshots are saved in the `screenshots/` directory.
+# **Visica: AI-Powered Visual Insight Assistant**  
+*Smarter Screens. Instant Answers.*
 
 ---
 
-Feel free to contribute, report bugs, or suggest features via [issues](https://github.com/nxtgencat/visica/issues).
+## 🚀 Overview  
+Visica is a fast, lightweight desktop tool that captures your screen and sends it to powerful AI models for instant answers. Perfect for solving coding problems, logic questions, and visual challenges in seconds — all with a few key presses.
+
+---
+
+## 🔑 Hotkeys  
+
+| Hotkey         | Action                                  |
+|----------------|------------------------------------------|
+| Z + A          | Analyze with **Gemini Flash**            |
+| Z + S          | Analyze with **GPT-4o Mini**             |
+| Z + D          | Analyze with **GPT-4o**                  |
+| Z + C          | Long screenshot mode                     |
+| Z + X          | Toggle floating UI                       |
+| Z + Arrows     | Scroll through AI response               |
+
+---
+
+## 🤖 Supported AI Models  
+
+| Model           | Best For                            |
+|----------------|--------------------------------------|
+| Gemini Flash    | Fast logic/syntax analysis           |
+| GPT-4o Mini     | Balanced reasoning & structure       |
+| GPT-4o          | Deep multi-step explanations         |
+
+---
+
+## ⚙️ Features  
+
+- Minimal floating UI  
+- Click-through capture mode  
+- Hotkey-only control  
+- Auto-save screenshots with timestamps  
+- Smooth response navigation  
+
+---
+
+## 🔐 Security  
+
+- Secured with passphrase & device lock  
+- Cloud-based, real-time AI interaction  
+- Runs quietly without popups or overlays  
+
+---
+
+## 🛡️ Proctor-Safe  
+
+Works undetected on browser-based exam platforms. Bypasses:
+
+- Fullscreen locks  
+- Shortcut blocking  
+- Tab/window monitoring  
+- Mouse tracking & overlays  
+
+> ✅ Tested in secure browser-based exam systems with multiple layers of monitoring  
+> ⚙️ Deeper system-level lockdown support is **under internal evaluation**
+
+---
+
+## ✅ Why Use Visica?
+
+- **Fast:** From screen to answer in seconds  
+- **Clear:** Clean, context-aware output  
+- **Simple:** No clutter, just results  
+- **Stealthy:** Works even in locked-down setups  
