@@ -1,71 +1,69 @@
-# **Visica: AI-Powered Visual Insight Assistant**  
-*Smarter Screens. Instant Answers.*
+# Visica
+
+**AI-Powered Screenshot Analysis Tool for Technical Workflows**
+
+
+Visica is a high-performance desktop application that captures your screen and instantly analyzes visual content using powerful AI models. It’s built for developers, analysts, and professionals who need rapid, structured insights from visual data — all from a keyboard-driven interface.
 
 ---
 
-## 🚀 Overview  
-Visica is a fast, lightweight desktop tool that captures your screen and sends it to powerful AI models for instant answers. Perfect for solving coding problems, logic questions, and visual challenges in seconds — all with a few key presses.
+## 🚀 Features
+
+- ⚡ **Instant AI-Powered Analysis**
+  - Capture any screen and turn it into structured, intelligent output in seconds.
+  
+- 🎯 **Keyboard-Driven Workflow**
+  - Use intuitive hotkeys to capture, analyze, and switch AI models — no clicks required.
+
+- 🧠 **Multi-Model Support**
+  - Toggle between **Gemini**, **GPT-4o Mini**, **GPT-4o**, and **DeepSeek v3**.
+
+- 📸 **Scrolling Screenshot Support**
+  - Capture long/scrolling content as a single image with a single shortcut.
+
+- 💾 **Auto Save**
+  - Screenshots are saved locally with timestamps for easy access and logging.
+
+- 🧩 **Floating UI**
+  - Minimal, toggleable overlay to view AI results without disrupting your workflow.
 
 ---
 
-## 🔑 Hotkeys  
+## 🎮 Hotkeys (Z-based Shortcuts)
 
-| Hotkey         | Action                                  |
-|----------------|------------------------------------------|
-| Z + A          | Analyze with **Gemini Flash**            |
-| Z + S          | Analyze with **GPT-4o Mini**             |
-| Z + D          | Analyze with **GPT-4o**                  |
-| Z + C          | Long screenshot mode                     |
-| Z + X          | Toggle floating UI                       |
-| Z + Arrows     | Scroll through AI response               |
-
----
-
-## 🤖 Supported AI Models  
-
-| Model           | Best For                            |
-|----------------|--------------------------------------|
-| Gemini Flash    | Fast logic/syntax analysis           |
-| GPT-4o Mini     | Balanced reasoning & structure       |
-| GPT-4o          | Deep multi-step explanations         |
+| Action                                | Shortcut     |
+|---------------------------------------|--------------|
+| Capture and analyze                   | `Z + A`      |
+| Switch AI model                       | `Z + S`      |
+| Long/stitched screenshot              | `Z + C`      |
+| Toggle floating UI                    | `Z + X`      |
+| Open profile settings                 | `Z + Q`      |
+| Scroll through AI response            | `Z + Arrows` |
 
 ---
 
-## ⚙️ Features  
+## 🧠 How It Works
 
-- Minimal floating UI  
-- Click-through capture mode  
-- Hotkey-only control  
-- Auto-save screenshots with timestamps  
-- Smooth response navigation  
-
----
-
-## 🔐 Security  
-
-- Secured with passphrase & device lock  
-- Cloud-based, real-time AI interaction  
-- Runs quietly without popups or overlays  
+1. **Press Shortcut**: Use `Z + A` to capture the screen and send to AI.
+2. **Capture Screenshot**: Visica auto-selects your current screen or lets you define a region.
+3. **AI Analysis**: Your selected AI model analyzes the content intelligently.
+4. **View Results**: Results appear in the floating overlay.
+5. **Switch Models**: Use `Z + S` to try different perspectives with other AI models.
 
 ---
 
-## 🛡️ Proctor-Safe  
+## 🎯 Use Cases
 
-Works undetected on browser-based exam platforms. Bypasses:
-
-- Fullscreen locks  
-- Shortcut blocking  
-- Tab/window monitoring  
-- Mouse tracking & overlays  
-
-> ✅ Tested in secure browser-based exam systems with multiple layers of monitoring  
-> ⚙️ Deeper system-level lockdown support is **under internal evaluation**
+- **Code Analysis**: Understand unfamiliar syntax, debug code snippets.
+- **Logic Problems**: Analyze flowcharts, diagrams, and puzzles.
+- **Data Extraction**: Extract structured data from screenshots and visual data.
 
 ---
 
-## ✅ Why Use Visica?
+## 🛡️ Why Visica?
 
-- **Fast:** From screen to answer in seconds  
-- **Clear:** Clean, context-aware output  
-- **Simple:** No clutter, just results  
-- **Stealthy:** Works even in locked-down setups  
+- **Speed**: Analyze visuals in under a second.
+- **Clarity**: Clear, context-specific results ready for action.
+- **Adaptability**: Works across diverse visual content types.
+- **Stealth Mode**: Operates discreetly in high-compliance environments.
+
