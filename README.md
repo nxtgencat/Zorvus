@@ -7,17 +7,6 @@ Get instant answers, real-time transcription, and smart solutions to boost your 
 
 ---
 
-## Download Now & Get Started
-
-Download the latest version of Zorvus and start coding faster today.
-
-- [Download for Windows](#)  
-- [Download for macOS](#) (Coming Soon)
-
-**Latest version:** v2.1.7 (May 26, 2025)  
-[View Release Notes](#)
-
----
 
 ## Zorvus Compatibility
 
@@ -98,26 +87,3 @@ Master these shortcuts to maximize your productivity with Zorvus:
 - All shortcuts work globally when Zorvus is running.
 
 ---
-
-## Flexible Pricing Plans
-
-Choose your Zorvus plan to unlock AI-powered screenshot analysis for individuals and teams:
-
-| Plan       | Duration | Keys | Price (₹) | Savings   | Validity per Key     | Total Users        | Features                   |
-|------------|----------|------|-----------|-----------|---------------------|--------------------|----------------------------|
-| **Core**   | 1 Month  | 1    | 499       | -         | 1 Month             | 1 User             | All features, email support |
-| **Core**   | 2 Months | 1    | 899       | ₹99       | 2 Months            | 1 User             | All features, email support |
-| **Core**   | 3 Months | 1    | 1199      | ₹298      | 3 Months            | 1 User             | All features, email support |
-| **Duo**    | 1 Month  | 2    | 899       | ₹99       | 1 Month             | 2 Users            | All features, email support |
-| **Duo**    | 2 Months | 2    | 1599      | ₹399      | 2 Months            | 2 Users            | All features, email support |
-| **Duo**    | 3 Months | 2    | 2199      | ₹799      | 3 Months            | 2 Users            | All features, email support |
-| **Trio**   | 1 Month  | 3    | 1299      | ₹198      | 1 Month             | 3 Users            | All features, email support |
-| **Trio**   | 2 Months | 3    | 2199      | ₹798      | 2 Months            | 3 Users            | All features, email support |
-| **Trio**   | 3 Months | 3    | 2999      | ₹1488     | 3 Months            | 3 Users            | All features, email support |
-
-> **Note:** Enter your email during payment to receive your account details after purchase.  
-> Having trouble with payment? Contact us with your transaction details for assistance.
-
----
-
-
