@@ -1,69 +1,123 @@
-# Visica
+# Zorvus
 
-**AI-Powered Screenshot Analysis Tool for Technical Workflows**
+## AI Assistant for Developers & Students
 
-
-Visica is a high-performance desktop application that captures your screen and instantly analyzes visual content using powerful AI models. It’s built for developers, analysts, and professionals who need rapid, structured insights from visual data — all from a keyboard-driven interface.
-
----
-
-## 🚀 Features
-
-- ⚡ **Instant AI-Powered Analysis**
-  - Capture any screen and turn it into structured, intelligent output in seconds.
-  
-- 🎯 **Keyboard-Driven Workflow**
-  - Use intuitive hotkeys to capture, analyze, and switch AI models — no clicks required.
-
-- 🧠 **Multi-Model Support**
-  - Toggle between **Gemini**, **GPT-4o Mini**, **GPT-4o**, and **DeepSeek v3**.
-
-- 📸 **Scrolling Screenshot Support**
-  - Capture long/scrolling content as a single image with a single shortcut.
-
-- 💾 **Auto Save**
-  - Screenshots are saved locally with timestamps for easy access and logging.
-
-- 🧩 **Floating UI**
-  - Minimal, toggleable overlay to view AI results without disrupting your workflow.
+**Zorvus** is your intelligent assistant that helps you excel in technical assessments and problem-solving.  
+Get instant answers, real-time transcription, and smart solutions to boost your coding performance.
 
 ---
 
-## 🎮 Hotkeys (Z-based Shortcuts)
+## Download Now & Get Started
 
-| Action                                | Shortcut     |
-|---------------------------------------|--------------|
-| Capture and analyze                   | `Z + A`      |
-| Switch AI model                       | `Z + S`      |
-| Long/stitched screenshot              | `Z + C`      |
-| Toggle floating UI                    | `Z + X`      |
-| Open profile settings                 | `Z + Q`      |
-| Scroll through AI response            | `Z + Arrows` |
+Download the latest version of Zorvus and start coding faster today.
 
----
+- [Download for Windows](#)  
+- [Download for macOS](#) (Coming Soon)
 
-## 🧠 How It Works
-
-1. **Press Shortcut**: Use `Z + A` to capture the screen and send to AI.
-2. **Capture Screenshot**: Visica auto-selects your current screen or lets you define a region.
-3. **AI Analysis**: Your selected AI model analyzes the content intelligently.
-4. **View Results**: Results appear in the floating overlay.
-5. **Switch Models**: Use `Z + S` to try different perspectives with other AI models.
+**Latest version:** v2.1.7 (May 26, 2025)  
+[View Release Notes](#)
 
 ---
 
-## 🎯 Use Cases
+## Zorvus Compatibility
 
-- **Code Analysis**: Understand unfamiliar syntax, debug code snippets.
-- **Logic Problems**: Analyze flowcharts, diagrams, and puzzles.
-- **Data Extraction**: Extract structured data from screenshots and visual data.
+- Works in modern browsers (Chrome, Firefox, Edge) with WebRTC screen sharing  
+- Stealth mode works in browser-based screen sharing and WebRTC  
+- Not compatible with lockdown browsers or standalone screen sharing apps  
 
 ---
 
-## 🛡️ Why Visica?
+## AI-Powered Features
 
-- **Speed**: Analyze visuals in under a second.
-- **Clarity**: Clear, context-specific results ready for action.
-- **Adaptability**: Works across diverse visual content types.
-- **Stealth Mode**: Operates discreetly in high-compliance environments.
+Enhance your development workflow with cutting-edge AI capabilities:
+
+- **AI Code Assistant**: Instant code explanations, debugging help, and technical solutions  
+- **10K+ Code Solutions**  
+- **Fast Keyboard Shortcuts**: Boost productivity with lightning-fast keyboard commands  
+- **Secure & Private**: Local processing keeps your code and data protected  
+- **99.9% Reliability**  
+- **Multiple AI Models**: Choose from Gemini, GPT-4, and DeepSeek  
+- **Smart Capture**: Capture and analyze code, MCQs, and technical info instantly  
+- **<1s Fast Response**  
+
+---
+
+## Start Your Journey
+
+Join thousands of developers who are coding faster with Zorvus. No credit card required.
+
+- Secure & Private  
+- Free Trial Available  
+
+---
+
+## Keyboard Shortcuts
+
+Master these shortcuts to maximize your productivity with Zorvus:
+
+### Actions
+
+| Shortcut       | Action                              |
+|----------------|-----------------------------------|
+| `Z + C`        | Copy selected question answer     |
+| `Z + A`        | Ask AI                           |
+| `Z + P`        | Open profile settings             |
+| `Z + Q`        | Quit current mode (snap/transcribe) |
+| `Z + Tab`      | Enter snap mode                   |
+| `Z + S`        | Capture screenshot (snap mode) / Play/pause transcription (transcribe mode) |
+| `Z + Space`    | Toggle UI visibility              |
+| `Z + X`        | Enter transcribe mode             |
+| `Z + T`        | Reset transcript                  |
+| `Z + .`        | (Pro Tips focus indicator)        |
+
+### Navigation
+
+| Shortcut            | Action                |
+|---------------------|-----------------------|
+| `Z + ↑`             | Scroll content up     |
+| `Z + ↓`             | Scroll content down   |
+| `Z + ←`             | Scroll content left   |
+| `Z + →`             | Scroll content right  |
+| `Z + Shift + ↑`     | Select previous question |
+| `Z + Shift + ↓`     | Select next question  |
+
+### Window Management
+
+| Shortcut            | Action                |
+|---------------------|-----------------------|
+| `Z + Alt + ↑`       | Move window up        |
+| `Z + Alt + ↓`       | Move window down      |
+| `Z + Alt + ←`       | Move window left      |
+| `Z + Alt + →`       | Move window right     |
+| `Z + Alt + R`       | Reset window positions |
+
+**Pro Tips:**  
+- The focused question is indicated with a `>>` symbol.  
+- Use `Z + C` to copy the focused question's answer.  
+- Window positions are saved automatically.  
+- All shortcuts work globally when Zorvus is running.
+
+---
+
+## Flexible Pricing Plans
+
+Choose your Zorvus plan to unlock AI-powered screenshot analysis for individuals and teams:
+
+| Plan       | Duration | Keys | Price (₹) | Savings   | Validity per Key     | Total Users        | Features                   |
+|------------|----------|------|-----------|-----------|---------------------|--------------------|----------------------------|
+| **Core**   | 1 Month  | 1    | 499       | -         | 1 Month             | 1 User             | All features, email support |
+| **Core**   | 2 Months | 1    | 899       | ₹99       | 2 Months            | 1 User             | All features, email support |
+| **Core**   | 3 Months | 1    | 1199      | ₹298      | 3 Months            | 1 User             | All features, email support |
+| **Duo**    | 1 Month  | 2    | 899       | ₹99       | 1 Month             | 2 Users            | All features, email support |
+| **Duo**    | 2 Months | 2    | 1599      | ₹399      | 2 Months            | 2 Users            | All features, email support |
+| **Duo**    | 3 Months | 2    | 2199      | ₹799      | 3 Months            | 2 Users            | All features, email support |
+| **Trio**   | 1 Month  | 3    | 1299      | ₹198      | 1 Month             | 3 Users            | All features, email support |
+| **Trio**   | 2 Months | 3    | 2199      | ₹798      | 2 Months            | 3 Users            | All features, email support |
+| **Trio**   | 3 Months | 3    | 2999      | ₹1488     | 3 Months            | 3 Users            | All features, email support |
+
+> **Note:** Enter your email during payment to receive your account details after purchase.  
+> Having trouble with payment? Contact us with your transaction details for assistance.
+
+---
+
 
