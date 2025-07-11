@@ -1,89 +1,82 @@
-# Zorvus
+# ⚡ Zorvus
 
-## AI Assistant for Developers & Students
+**Zorvus** is an undetectable AI that reads your screen and hears your space and answers — in real time, invisibly.
 
-**Zorvus** is your intelligent assistant that helps you excel in technical assessments and problem-solving.  
-Get instant answers, real-time transcription, and smart solutions to boost your coding performance.
-
----
-
-
-## Zorvus Compatibility
-
-- Works in modern browsers (Chrome, Firefox, Edge) with WebRTC screen sharing  
-- Stealth mode works in browser-based screen sharing and WebRTC  
-- Not compatible with lockdown browsers or standalone screen sharing apps  
+<img width="700" height="480" alt="zorvus" src="https://github.com/user-attachments/assets/85efe2d5-91d1-4c81-93e2-f0de0a57024a" />
 
 ---
 
-## AI-Powered Features
+## 🚀 Features
 
-Enhance your development workflow with cutting-edge AI capabilities:
+### 📸 Screenshot + AI Analysis
+- Capture screenshots instantly
+- Analyze images using multiple AI models (Gemini, GPT-4, DeepSeek, etc.)
+- Supports multi-screenshot stitching
+- Stealth mode to work seamlessly in screen-sharing situations
 
-- **AI Code Assistant**: Instant code explanations, debugging help, and technical solutions  
-- **10K+ Code Solutions**  
-- **Fast Keyboard Shortcuts**: Boost productivity with lightning-fast keyboard commands  
-- **Secure & Private**: Local processing keeps your code and data protected  
-- **99.9% Reliability**  
-- **Multiple AI Models**: Choose from Gemini, GPT-4, and DeepSeek  
-- **Smart Capture**: Capture and analyze code, MCQs, and technical info instantly  
-- **<1s Fast Response**  
+### 🎙️ Transcribe Mode
+- Real-time speech-to-text transcription using Speechmatics
+- Pause/Resume transcription with hotkeys
+- Send transcript to AI for intelligent responses
+
+<img width="700" height="480" alt="transcribe" src="https://github.com/user-attachments/assets/be0050f0-692c-4303-80af-9d3c0851475d" />
+
+### 🧠 AI Assistant
+- Supports multiple models: `gemini`, `gpt4`, `gpt4_mini`, `deepseek_v3`, `gemini_lite`
+- Instant code help, explanations, and debugging suggestions
+- Fast response (<1s for Gemini Lite)
+
+### ⚙️ Smart UI
+- Floating windows for a non-intrusive experience
+- Move, resize, and reset windows with keyboard
+- Click-through mode and profile toggling
+- Tray icon for background operation
+
+### 🔐 Auth + Add-ons
+- Secure login and session validation
+- Add-on gated features: e.g., `copy_paste`, `transcribe_ai`
 
 ---
 
-## Start Your Journey
+## ⌨️ Hotkeys
 
-Join thousands of developers who are coding faster with Zorvus. No credit card required.
+### 🌟 General Actions
 
-- Secure & Private  
-- Free Trial Available  
+| Hotkey            | Action                                           |
+|-------------------|--------------------------------------------------|
+| `Z + A`           | Ask AI based on current screenshot/transcript    |
+| `Z + S`           | Enter Capture Mode                               |
+| `Z + T`           | Enter Transcribe Mode                            |
+| `Z + Q`           | Exit current mode                                |
+| `Z + Space`       | Capture screenshot / Toggle transcription        |
+| `Z + Tab`         | Switch AI model                                  |
+| `Z + X`           | Toggle UI visibility                             |
+| `Z + P`           | Open login/profile screen                        |
+| `Z + C`           | Copy selected Q&A (requires `copy_paste` addon)  |
+| `Z + .`           | Reset transcript (in Transcribe mode)            |
+
+### 🔍 Navigation
+
+| Hotkey            | Action                                           |
+|-------------------|--------------------------------------------------|
+| `Z + ↑/↓/←/→`     | Scroll view in respective direction              |
+| `Z + Shift + ↑/↓` | Select previous/next question                    |
+
+### 🪟 Window Management
+
+| Hotkey            | Action                                           |
+|-------------------|--------------------------------------------------|
+| `Z + Alt + ↑/↓/←/→` | Move window                                     |
+| `Z + Alt + R`     | Reset window positions                           |
 
 ---
 
-## Keyboard Shortcuts
+## 👁️ Stealth Mode
 
-Master these shortcuts to maximize your productivity with Zorvus:
-
-### Actions
-
-| Shortcut       | Action                              |
-|----------------|-----------------------------------|
-| `Z + C`        | Copy selected question answer     |
-| `Z + A`        | Ask AI                           |
-| `Z + P`        | Open profile settings             |
-| `Z + Q`        | Quit current mode (snap/transcribe) |
-| `Z + Tab`      | Enter snap mode                   |
-| `Z + S`        | Capture screenshot (snap mode) / Play/pause transcription (transcribe mode) |
-| `Z + Space`    | Toggle UI visibility              |
-| `Z + X`        | Enter transcribe mode             |
-| `Z + T`        | Reset transcript                  |
-| `Z + .`        | (Pro Tips focus indicator)        |
-
-### Navigation
-
-| Shortcut            | Action                |
-|---------------------|-----------------------|
-| `Z + ↑`             | Scroll content up     |
-| `Z + ↓`             | Scroll content down   |
-| `Z + ←`             | Scroll content left   |
-| `Z + →`             | Scroll content right  |
-| `Z + Shift + ↑`     | Select previous question |
-| `Z + Shift + ↓`     | Select next question  |
-
-### Window Management
-
-| Shortcut            | Action                |
-|---------------------|-----------------------|
-| `Z + Alt + ↑`       | Move window up        |
-| `Z + Alt + ↓`       | Move window down      |
-| `Z + Alt + ←`       | Move window left      |
-| `Z + Alt + →`       | Move window right     |
-| `Z + Alt + R`       | Reset window positions |
+- Hides UI during screen sharing
+- UI windows are movable, transparent, and click-through enabled
+- Use double `Ctrl` to toggle Z key modifier suppression
 
 **Pro Tips:**  
 - The focused question is indicated with a `>>` symbol.  
 - Use `Z + C` to copy the focused question's answer.  
-- Window positions are saved automatically.  
-- All shortcuts work globally when Zorvus is running.
-
----
